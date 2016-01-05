@@ -1,7 +1,7 @@
 {
   "name": "kurea-contrib-weather",
   "main": "index.coffee",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A weather module for Kurea.",
   "license": "MIT",
   "dependencies": {
